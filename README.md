@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doty1130
 - 👀 I’m interested in Game Design & Development, .Net, and Web Development 
-- 🌱 I’m currently learning python, Always learning about the vast .Net world.
+- 🌱 Always learning about the vast .Net world.
 - 💞️ I’m looking to collaborate on Not much at the moment
 - 📫 How to reach me ... Email me at doty1130@gmail.com
 
